@@ -1,2 +1,2 @@
-# Hello-World
-新手上路库
+# Hi humans
+人类你好
